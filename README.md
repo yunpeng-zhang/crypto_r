@@ -1,5 +1,5 @@
 # crypto_r analytics sample code
-R code for crypto analytics
+crypto analytics sample R code
 “0-ReportFunctionLib.R” is the script hosting all functions used by the crypto analysis.
 
 4 separate scripts to update data, model, chart and table
