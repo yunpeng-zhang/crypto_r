@@ -1,6 +1,7 @@
 # crypto_r analytics
 R code for crypto analytics
-“0-ReportFunctionLib.R” is the script hosting all functions used by the crypto analysis
+“0-ReportFunctionLib.R” is the script hosting all functions used by the crypto analysis.
+
 4 separate scripts to update data, model, chart and table
 * “1-DataPrepare.R”
 * “2-ModelPrepare.R”
